@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Statistics, Anhui University, Sept 2023 – Jul 2027 (Expected)
+* B.S.@[Anhui University](https://www.ahu.edu.cn/),2023-2027 (Expected)
 
 <!--Work experience
 ======
